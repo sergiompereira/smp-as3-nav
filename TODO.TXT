@@ -1,0 +1,2 @@
+TO DO:
+- rework architecture to use the mvc package: mvc pattern and component/composite pattern
